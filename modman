@@ -1,0 +1,5 @@
+app/code/community/MageStack/Optimiser/
+app/design/adminhtml/default/default/layout/magestack_optimiser.xml
+app/design/adminhtml/default/default/template/magestack_optimiser/
+app/etc/modules/MageStack_Optimiser.xml
+skin/adminhtml/default/default/magestack_optimiser.css
